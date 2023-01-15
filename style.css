@@ -9,8 +9,8 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #ffffff;    /* achtergrondkleur lichtgrijs */
-  color: #000000;               /* tekstkleur donkergrijs */
+  background-color: #000000;    /* achtergrondkleur lichtgrijs */
+  color: #ffffff;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -125,14 +125,14 @@ nav li a.active {
 
 
 .informatietekst {
-    float: right;
+    float: left;
     width: 400px;
     display: inline-block;
 }
 
 .informatiefoto {
     margin-left: 20px;
-    float: left;
+    float: right;
     width: 300px;
     display: inline-block;
 }
