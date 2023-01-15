@@ -115,7 +115,7 @@ nav li a.active {
     background-color: rgb(255, 5, 5);
 }
 
-/* indeling voor alle subpagina's */
+/* indeling voor tournament subpagina */
 .informatieblok {
     width: 550px;
     margin: 40px;
@@ -131,19 +131,77 @@ nav li a.active {
 }
 
 .informatiefoto {
-    margin-left: 20px;
+    margin-left: 10px;
     float: right;
-    width: 300px;
+    width: 400px;
     display: inline-block;
 }
 
+/* indeling voor legends subpagina */
+.informatieblok {
+    width: 650px;
+    margin: 40px;
+    float: none;
+    display: inline-blok;
+}
 
 
+.informatietekst {
+    float: left;
+    width: 400px;
+    display: inline-block;
+}
+
+.informatiefoto {
+    margin-right: 10px;
+    float: left;
+    width: 600px;
+    display: inline-block;
+}
+
+/* indeling spelregels subpagina */
+.informatieblok {
+    width: 650px;
+    margin: 40px;
+    float: none;
+    display: inline-blok;
+}
 
 
+.informatietekst {
+    float: left;
+    width: 400px;
+    display: inline-block;
+}
+
+.informatiefoto {
+    margin-left: 30px;
+    float: right;
+    width: 600px;
+    display: inline-block;
+}
+
+/* indeling geschiedenis subpagina */
+.informatieblok {
+    width: 650px;
+    margin: 40px;
+    float: none;
+    display: inline-blok;
+}
 
 
+.informatietekst {
+    float: left;
+    width: 400px;
+    display: inline-block;
+}
 
+.informatiefoto {
+    margin-left: 5px;
+    float: left;
+    width: 600px;
+    display: inline-block;
+}
 
 
 
